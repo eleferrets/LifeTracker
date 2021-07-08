@@ -40,7 +40,7 @@ Implement any of the following features to improve the application:
 
 `TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
 
-![image](Assignment3.gif)
+![image](assignment3-3.gif)
 
 ### Reflection
 
