@@ -26,7 +26,7 @@ Deployed Application: [Lifetracker Deployed Site](ADD_LINK_HERE)
 - [x] The detailed activity should contain a form to contain relevant information. (i.e if tracking nutrition this form allows the user to capture calories, timestamp, image, category, etc.) 
 - [x] The activity tracked should be given a unique id for easy lookup.
 
-  * [Table Schema](life-tracker-schema.sql) 
+  * [Table Schema]() 
 
 ### Stretch Features
 
@@ -40,7 +40,7 @@ Implement any of the following features to improve the application:
 
 `TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
 
-`ADD_EMBEDDED_CODE_HERE`
+[!image](assignment3.gif) 
 
 ### Reflection
 
